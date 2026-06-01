@@ -1,5 +1,5 @@
 function downloadCV() {
-  window.open('cv.pdf', '_blank');
+  window.open('Kowsar_Mahmud_Pappu.pdf', '_blank');
 }
 
 function openTab(tabName) {
